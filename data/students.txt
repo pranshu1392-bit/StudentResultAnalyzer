@@ -1,0 +1,5 @@
+123|Pranshu Singh
+SUBJECT|calculus|60
+SUBJECT|eee|60
+SUBJECT|evs|83
+END
